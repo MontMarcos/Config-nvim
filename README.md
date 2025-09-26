@@ -1,6 +1,6 @@
 # ⚙️ Minha Configuração do Neovim (LazyVim)
 
-Esta é a minha configuração pessoal do Neovim (`nvim`), baseada na *starter kit* **LazyVim**. Ela foca em **[Insira aqui seu foco, ex: desenvolvimento web, Python, ou apenas um editor rápido]** e utiliza o gerenciador de plugins **`lazy.nvim`** para carregamento rápido.
+Esta é a minha configuração pessoal do Neovim (`nvim`), baseada na *starter kit* **LazyVim**. Ela foca em **backend e programação competitiva** e utiliza o gerenciador de plugins **`lazy.nvim`** para carregamento rápido.
 
 ## ✨ Recursos Principais
 
